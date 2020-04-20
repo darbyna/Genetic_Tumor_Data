@@ -1,6 +1,6 @@
 # Analysis of Genetic Tumor Data 
 
-With data provided by the <i> Foundation for Advanced Education in the Sciences <i> located at the <i> National Institutes of Health <i>, the EGFR, FOX01, JAK2, and BRCA2 genes were analyzed based on whether or not they were oncogenic or normal in tumor samples.  To do this, the following statistical analyses were performed using the R programming language: mean, median, variance, and standard deviation. These techniques were performed to determine the relevance and significance of normal versus tumor genes. 
+With data provided by the <i> Foundation for Advanced Education in the Sciences <i> located at the </i> National Institutes of Health <i>, the EGFR, FOX01, JAK2, and BRCA2 genes were analyzed based on whether or not they were oncogenic or normal in tumor samples.  To do this, the following statistical analyses were performed using the R programming language: mean, median, variance, and standard deviation. These techniques were performed to determine the relevance and significance of normal versus tumor genes. 
   
   
 # Figure
